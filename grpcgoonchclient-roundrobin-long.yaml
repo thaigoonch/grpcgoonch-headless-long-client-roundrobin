@@ -1,21 +1,21 @@
 apiVersion: batch/v1
 kind: CronJob
 metadata:
-  name: grpcgoonchclient-roundrobin-cronjob
+  name: grpcgoonchclient-roundrobin-long-cronjob
   labels:
-    app: grpcgoonchclient-roundrobin
+    app: grpcgoonchclient-roundrobin-long
 spec:
   schedule: "0/8 * * * *"
   jobTemplate:
     metadata:
       labels:
-        app: grpcgoonchclient-roundrobin
+        app: grpcgoonchclient-roundrobin-long
     spec:
       template:
         spec:
           containers:
-          - name: grpcgoonchclient-roundrobin
-            image: thaigoonch/grpcgoonchclient-roundrobin:1.1
+          - name: grpcgoonchclient-roundrobin-long
+            image: thaigoonch/grpcgoonchclient-roundrobin-long:1.0
             imagePullPolicy: IfNotPresent
             env:
             - name: LOG_LEVEL
