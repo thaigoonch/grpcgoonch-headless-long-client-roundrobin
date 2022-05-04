@@ -207,8 +207,8 @@ github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81P
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
-github.com/thaigoonch/grpcgoonch-headless-long v0.0.0-20220504024332-be5f09d0a53a h1:6AS9nhkd8IkugXaFGQDHC/JT1igudiuwRcN7CXrPFuc=
-github.com/thaigoonch/grpcgoonch-headless-long v0.0.0-20220504024332-be5f09d0a53a/go.mod h1:m/DRX4SRsk5v6W4dfivznnjF4M/icSRdwfenrkOd2JY=
+github.com/thaigoonch/grpcgoonch-headless-long v0.0.0-20220504061947-b037cc9e4b55 h1:nEtpoy4TkVvSKdgH/Oy7BTwCRoFrA/n8L2WwwYDNPEo=
+github.com/thaigoonch/grpcgoonch-headless-long v0.0.0-20220504061947-b037cc9e4b55/go.mod h1:m/DRX4SRsk5v6W4dfivznnjF4M/icSRdwfenrkOd2JY=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
